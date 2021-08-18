@@ -16,4 +16,4 @@
                 <a class="nav-link" href="transactionhistory.php" style="color : #C0392B;"><b>Transaction History</b></a>
               </li>
           </div>
-       </nav>
+       </nav> 
